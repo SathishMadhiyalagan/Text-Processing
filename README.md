@@ -64,6 +64,8 @@ app/                     # Main application folder
    ```bash
    python app.py
    ```
+   The first time you run this command, it may take some time to download the required models, depending on your internet speed and system configuration. Once the download is complete, restarting your server in the future will take less time.
+   
    The application will be available at `http://127.0.0.1:5000`.
 
 6. **Access the Application**:
