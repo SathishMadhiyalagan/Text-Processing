@@ -26,7 +26,7 @@ app/                     # Main application folder
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.8 or higher (I have Python 3.11.0 installed on my machine)
 - Pip (Python package manager)
 
 ### Steps
