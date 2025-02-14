@@ -1,6 +1,3 @@
-If you’ve moved the `.gitignore` file outside the `app` folder and updated it to include `app/instance` and `llmEnv`, here’s how your updated `README.md` should reflect the new structure and `.gitignore` setup:
-
----
 
 # Text Processing Web Application
 
@@ -103,8 +100,8 @@ app/                     # Main application folder
         "summary": "Generated summary",
         "keywords": ["list", "of", "keywords"],
         "sentiment": "Positive/Negative/Neutral"
-      },
-      ...
+      },,,,
+      
     ]
     ```
 
